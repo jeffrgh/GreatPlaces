@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232497963716",
+    "project_id": "triochat-5e915",
+    "storage_bucket": "triochat-5e915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232497963716:android:a4a9e923058116d5e29f91",
+        "android_client_info": {
+          "package_name": "com.example.trioshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232497963716-f85spe6rteathbkqstui7dj2314pn3l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagNdxRfNYFmGs0pwL4Co7eSbUKb_WJ00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232497963716-f85spe6rteathbkqstui7dj2314pn3l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
