@@ -36,6 +36,9 @@
       <excludeFolder url="file://$MODULE_DIR$/../../gameapp/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/../../gameapp/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/../../gameapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../teachers_day_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/../../teachers_day_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../teachers_day_app/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
